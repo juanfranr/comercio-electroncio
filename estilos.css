@@ -1,0 +1,54 @@
+header,section,footer,aside,article, hgroup{
+    border: 1px solid rgb(182, 177, 177);
+    display: block;
+}
+body{
+    text-align: center;
+
+}
+div{
+    width: 960px;
+    background-color: rgb(240, 239, 234);
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border: 2px solid black;
+    
+}
+.menu li {
+    list-style: none;
+    border: 1px solid black;
+    padding: 5px;
+    font: bold 14px;
+    display: inline-block;
+    text-align: left;
+
+}
+
+.seccion{
+    margin: 15px;
+    border: 1px solid black;
+    background-color: lightcyan ;
+    width: 600px;
+    
+
+}
+
+.secci{
+    margin: 20px;
+    border: 2px solid blue;
+    background-color: azure;
+    width: 750px;
+    
+    
+
+
+
+}
+.columna{
+    width: 150px;
+    border: 1px black;
+    
+
+}
